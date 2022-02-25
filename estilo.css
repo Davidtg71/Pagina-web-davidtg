@@ -1,0 +1,55 @@
+body {
+    font-family: Open Sans;
+    margin: 0px;
+    color: black;
+}
+h1 {
+    font-family: Montserrat;
+    font-size: 40px;
+    color: #333;
+    text-align: center;
+}
+
+h2 {
+    font-family: Montserrat;
+    font-size: 32px;
+    color: #444;
+}
+
+.cuerpo {
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+	background-color: LightSalmon;
+    
+}
+
+.animal4 {
+	background-color: rgb(231, 173, 226);
+	border: 1px solid black;
+}
+.animal1 {
+    background-color: rgb(154, 185, 199);
+	border: 1px solid black;
+}
+.animal2 {
+    background-color: rgb(182, 221, 205);
+	border: 1px solid black;
+} 
+.animal3 {
+        background-color: rgb(228, 181, 163);
+        border: 1px solid black;
+}
+.animal5 {
+        background-color: rgb(229, 231, 233);
+        border: 1px solid black;
+}
+#pie {
+    color: white;
+    background-color: ;
+    padding: 10px;
+    text-align: center;
+}
+p {
+    width: 720px;
+}
